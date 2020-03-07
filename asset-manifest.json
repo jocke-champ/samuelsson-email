@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/samuelsson-email/static/css/main.07f94d8c.chunk.css",
+    "main.js": "/samuelsson-email/static/js/main.aeb99abb.chunk.js",
+    "main.js.map": "/samuelsson-email/static/js/main.aeb99abb.chunk.js.map",
+    "runtime-main.js": "/samuelsson-email/static/js/runtime-main.84709bc8.js",
+    "runtime-main.js.map": "/samuelsson-email/static/js/runtime-main.84709bc8.js.map",
+    "static/js/2.afbc35d5.chunk.js": "/samuelsson-email/static/js/2.afbc35d5.chunk.js",
+    "static/js/2.afbc35d5.chunk.js.map": "/samuelsson-email/static/js/2.afbc35d5.chunk.js.map",
+    "index.html": "/samuelsson-email/index.html",
+    "precache-manifest.dc46ca06f1e29511853641e94a0a8081.js": "/samuelsson-email/precache-manifest.dc46ca06f1e29511853641e94a0a8081.js",
+    "service-worker.js": "/samuelsson-email/service-worker.js",
+    "static/css/main.07f94d8c.chunk.css.map": "/samuelsson-email/static/css/main.07f94d8c.chunk.css.map",
+    "static/js/2.afbc35d5.chunk.js.LICENSE.txt": "/samuelsson-email/static/js/2.afbc35d5.chunk.js.LICENSE.txt",
+    "static/media/slide1.jpg": "/samuelsson-email/static/media/slide1.be60cd01.jpg",
+    "static/media/slide2.jpg": "/samuelsson-email/static/media/slide2.90fe4a23.jpg",
+    "static/media/slide3.jpg": "/samuelsson-email/static/media/slide3.1573f571.jpg",
+    "static/media/slide4.jpg": "/samuelsson-email/static/media/slide4.6be3bcf9.jpg",
+    "static/media/slide5.jpg": "/samuelsson-email/static/media/slide5.af21da0b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84709bc8.js",
+    "static/js/2.afbc35d5.chunk.js",
+    "static/css/main.07f94d8c.chunk.css",
+    "static/js/main.aeb99abb.chunk.js"
+  ]
+}
